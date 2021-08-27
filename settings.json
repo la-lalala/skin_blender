@@ -1,0 +1,20 @@
+ {
+    "target_paths":{
+        "Face":[
+            "inputs/base/3duG3FSkyler12yo_Face_DF_1001_re_re_re.png",
+            "inputs/blend/3duG8FKennedy_Face_BM_1001.jpg"
+        ],
+        "Torso":[
+            "inputs/base/3duG3FSkyler12yo_Torso_DF_1002_test_4.jpg",
+            "inputs/blend/3duG8FKennedy_Torso_BM_1002.jpg"
+        ],
+        "Arms":[
+            "inputs/base/3duG3FSkyler12yo_Arms_DF_1004.jpg",
+            "inputs/blend/3duG8FKennedy_Arms_BM_1004.jpg"
+        ],
+        "Legs":[
+            "inputs/base/3duG3FSkyler12yo_Legs_DF_1003.jpg",
+            "inputs/blend/3duG8FKennedy_Legs_BM_1003.jpg"
+        ]
+    }
+}
